@@ -85,8 +85,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Applied SBERT, VAE, UMAP, and clustering techniques  
 - Reduced dimensionality while preserving key information  
 
-👉 Improves efficiency and structure of psychometric assessments  
-
 ### 📊 Classification
 
 **[Customer Churn Prediction](https://github.com/tu-usuario/churn-prediction)**  
@@ -94,16 +92,12 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Performed feature engineering and model evaluation  
 - Identified key variables associated with customer churn  
 
-👉 Supports customer retention strategies  
-
 ### 📈 Regression
 
 **[Sales / Demand Prediction](https://github.com/tu-usuario/regression-project)**  
 - Developed regression models to predict continuous variables (e.g., demand or sales)  
 - Evaluated performance using MAE and RMSE  
-- Analyzed relationships between key predictors  
-
-👉 Enables better planning and forecasting  
+- Analyzed relationships between key predictors   
 
 ### 🔍 Clustering
 
@@ -112,16 +106,12 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Used feature scaling and dimensionality reduction  
 - Identified distinct customer groups based on behavior  
 
-👉 Supports targeted marketing strategies  
-
 ### ⚙️ End-to-End Project
 
 **[End-to-End ML Pipeline](https://github.com/tu-usuario/end-to-end-project)**  
 - Complete workflow: data cleaning → modeling → evaluation → deployment  
 - Built an interactive dashboard (e.g., Streamlit)  
 - Delivered insights for decision-making  
-
-👉 Demonstrates full data science lifecycle  
 
 ---
 
