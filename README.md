@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yasmine%20%7C%20Data%20Scientist&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20%C2%B7%20NLP%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Header celeste alineado con tu foto -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7C7E7,50:6FA8DC,100:2E4A62&height=200&section=header&text=Yasmine%20%7C%20Data%20Scientist&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20for%20Real-World%20Decisions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineer+%F0%9F%87%A8%F0%9F%87%B1+Santiago%2C+Chile;Building+intelligent+systems+from+data;ML+%7C+NLP+%7C+Computer+Vision;Turning+business+problems+into+models" alt="Typing SVG" />
-</a>
+<!-- Frase clave (más estratégica) -->
+<h3 style="color:#6FA8DC;">Turning data into decisions</h3>
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6FA8DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-A7C7E7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tu@email.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-2E4A62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
 </div>
 
@@ -22,72 +20,90 @@
 
 ## 👩‍💻 About Me
 
-Computer Engineer from **Universidad Técnica Federico Santa María** with a strong focus on applied machine learning, NLP, and computer vision. I enjoy turning messy, real-world data into models that actually work — and explaining why they do.
+Computer Engineer from **Universidad Técnica Federico Santa María** focused on applying machine learning to real-world problems.
 
-- 🎓 Thesis: **Surgical instrument recognition** using YOLO-based object detection
-- 🏦 Past experience: Process automation at **Banco Itaú** (Power Automate + SQL)
-- 🔍 Currently: Looking for **Data Scientist** roles where I can build end-to-end ML solutions
-- 🌱 Always exploring: LLMs, model interpretability, and MLOps practices
+I build end-to-end data solutions — from raw data to actionable insights — with a strong focus on **decision-making and business impact**.
+
+- 🎓 Thesis: **Surgical instrument recognition** using YOLO-based object detection  
+- 🏦 Experience: Process automation at **Banco Itaú**, improving operational efficiency with Power Automate + SQL  
+- 📊 Focus: Predictive modeling, NLP, and applied ML  
+- 🚀 Goal: Data Scientist role where I can drive real business impact  
+
+---
+
+## 🎯 What I Bring
+
+- Ability to translate business problems into ML solutions  
+- Strong focus on interpretability (SHAP, feature importance)  
+- Experience working with real-world messy data  
+- End-to-end project development (EDA → model → insight → decision)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Modeling**  
+Scikit-learn · XGBoost · PyTorch  
 
-**Languages & Core**
+**Data**  
+Pandas · NumPy · SQL  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**NLP**  
+Transformers · spaCy · NLTK  
 
-**Machine Learning & DL**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Data & NLP**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-009933?style=flat-square&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</div>
+**Tools**  
+AWS · Git · Streamlit · Power Automate  
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📊 Predictive Modeling
+
+**Customer Churn Prediction**  
+- Built a classification model to identify customers at risk of leaving  
+- Achieved high recall on churn class  
+- Identified key drivers: low engagement and discount dependency  
+
+👉 *Impact: Enables targeted retention strategies*
+
+---
+
+**Fraud Detection System**  
+- Developed an imbalanced classification pipeline  
+- Applied threshold tuning and evaluation strategies  
+
+👉 *Impact: Improves detection of high-risk transactions*
+
+---
+
+### 🧠 NLP
+
+**Questionnaire Optimization**  
+- NLP pipeline to detect redundant questions  
+- Improved structure and efficiency of surveys  
+
+👉 *Impact: Reduces survey length while preserving information*
+
+---
+
 ### 🔬 Computer Vision
 
-| Project | Description | Stack |
-|---|---|---|
-| [🩺 Surgical Instrument Detection](https://github.com/tu-usuario/surgical-yolo) | YOLO-based detection system for surgical instruments in real-time video — undergraduate thesis | `YOLOv8` `OpenCV` `Python` |
-| [👁️ Coming soon...](#) | Stay tuned | — |
+**Surgical Instrument Detection**  
+- YOLO-based real-time detection model  
+- Applied to surgical environments  
 
-### 🧠 NLP & Text
+👉 *Impact: Supports automation in medical workflows*
 
-| Project | Description | Stack |
-|---|---|---|
-| [📋 Questionnaire Optimizer](https://github.com/tu-usuario/nlp-questionnaire) | NLP pipeline to identify redundant questions and optimize survey structure | `spaCy` `Transformers` `Scikit-learn` |
-| [💬 Sentiment Analysis — Product Reviews](https://github.com/tu-usuario/sentiment-reviews) | End-to-end sentiment classifier for e-commerce reviews with business insights | `BERT` `Pandas` `Streamlit` |
+---
 
-### 📊 ML & Predictive Modeling
+### ⚡ Energy & Data (DIFERENCIAL)
 
-| Project | Description | Stack |
-|---|---|---|
-| [📉 Customer Churn Prediction](https://github.com/tu-usuario/churn-prediction) | Binary classification model with full EDA, feature engineering and model comparison | `Scikit-learn` `SHAP` `XGBoost` |
-| [🔍 Fraud Detection System](https://github.com/tu-usuario/fraud-detection) | Imbalanced classification pipeline with threshold optimization for financial fraud | `Scikit-learn` `imbalanced-learn` `Python` |
-| [🛒 Customer Segmentation](https://github.com/tu-usuario/customer-segmentation) | RFM + K-Means clustering for marketing strategy | `Scikit-learn` `Plotly` `Pandas` |
+**Hydrogen Cost Modeling (LCOH)**  
+- Modeled cost drivers of green hydrogen production  
+- Analyzed impact of energy and infrastructure variables  
+
+👉 *Impact: Supports decision-making in energy projects*
 
 ---
 
@@ -95,22 +111,21 @@ Computer Engineer from **Universidad Técnica Federico Santa María** with a str
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧩 What I'm Working On
+## 🧩 Current Focus
 
 ```python
 current_focus = {
-    "learning":   ["LLM fine-tuning", "MLOps with MLflow", "Model interpretability (SHAP/LIME)"],
-    "building":   ["End-to-end ML projects", "Streamlit demos", "Kaggle competitions"],
-    "goal":       "Data Scientist role — open to FMCG, fintech, and consulting 🚀"
+    "learning": ["LLMs", "MLOps", "Model interpretability"],
+    "building": ["End-to-end ML projects", "Streamlit apps"],
+    "goal": "Data Scientist role 🚀"
 }
-```
 
 ---
 
