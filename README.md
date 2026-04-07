@@ -80,7 +80,7 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 ### 🧠 NLP & Applied AI
 
-**[Questionnaire Optimization using NLP](https://github.com/tu-usuario/nlp-questionnaire)**  
+**[Questionnaire Optimization using NLP](https://github.com/yasmineperez/nlp-questionnaire-optimization)**  
 - Developed an AI-based pipeline to identify redundancies in mental health questionnaires  
 - Applied SBERT, VAE, UMAP, and clustering techniques  
 - Reduced dimensionality while preserving key information  
