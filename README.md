@@ -87,7 +87,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 👉 Improves efficiency and structure of psychometric assessments  
 
----
 
 ### 📊 Classification
 
