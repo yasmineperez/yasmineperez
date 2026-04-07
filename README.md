@@ -78,42 +78,58 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 ## 🚀 Featured Projects
 
-### 📊 Predictive Modeling
+### 🧠 NLP & Applied AI
 
-**Customer Churn Prediction**  
-- Built a classification model to identify customers at risk of leaving  
-- Achieved high recall on churn class  
-- Identified key drivers: low engagement and discount dependency  
+**[Questionnaire Optimization using NLP](https://github.com/tu-usuario/nlp-questionnaire)**  
+- Developed an AI-based pipeline to identify redundancies in mental health questionnaires  
+- Applied SBERT, VAE, UMAP, and clustering techniques  
+- Reduced dimensionality while preserving key information  
 
-👉 *Impact: Enables targeted retention strategies*
-
----
-
-**Fraud Detection System**  
-- Developed an imbalanced classification pipeline  
-- Applied threshold tuning and evaluation strategies  
-
-👉 *Impact: Improves detection of high-risk transactions*
+👉 Improves efficiency and structure of psychometric assessments  
 
 ---
 
-### 🧠 NLP
+### 📊 Classification
 
-**Questionnaire Optimization**  
-- NLP pipeline to detect redundant questions  
-- Improved structure and efficiency of surveys  
+**[Customer Churn Prediction](https://github.com/tu-usuario/churn-prediction)**  
+- Built classification models (Logistic Regression, Random Forest, XGBoost)  
+- Performed feature engineering and model evaluation  
+- Identified key variables associated with customer churn  
 
-👉 *Impact: Reduces survey length while preserving information*
+👉 Supports customer retention strategies  
 
 ---
 
-### 🔬 Computer Vision
+### 📈 Regression
 
-**Surgical Instrument Detection**  
-- YOLO-based real-time detection model  
-- Applied to surgical environments  
+**[Sales / Demand Prediction](https://github.com/tu-usuario/regression-project)**  
+- Developed regression models to predict continuous variables (e.g., demand or sales)  
+- Evaluated performance using MAE and RMSE  
+- Analyzed relationships between key predictors  
 
-👉 *Impact: Supports automation in medical workflows*
+👉 Enables better planning and forecasting  
+
+---
+
+### 🔍 Clustering
+
+**[Customer Segmentation](https://github.com/tu-usuario/customer-segmentation)**  
+- Applied K-Means clustering for customer segmentation  
+- Used feature scaling and dimensionality reduction  
+- Identified distinct customer groups based on behavior  
+
+👉 Supports targeted marketing strategies  
+
+---
+
+### ⚙️ End-to-End Project
+
+**[End-to-End ML Pipeline](https://github.com/tu-usuario/end-to-end-project)**  
+- Complete workflow: data cleaning → modeling → evaluation → deployment  
+- Built an interactive dashboard (e.g., Streamlit)  
+- Delivered insights for decision-making  
+
+👉 Demonstrates full data science lifecycle  
 
 ---
 
