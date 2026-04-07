@@ -87,7 +87,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 👉 Improves efficiency and structure of psychometric assessments  
 
-
 ### 📊 Classification
 
 **[Customer Churn Prediction](https://github.com/tu-usuario/churn-prediction)**  
@@ -96,8 +95,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Identified key variables associated with customer churn  
 
 👉 Supports customer retention strategies  
-
----
 
 ### 📈 Regression
 
@@ -108,8 +105,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 👉 Enables better planning and forecasting  
 
----
-
 ### 🔍 Clustering
 
 **[Customer Segmentation](https://github.com/tu-usuario/customer-segmentation)**  
@@ -118,8 +113,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Identified distinct customer groups based on behavior  
 
 👉 Supports targeted marketing strategies  
-
----
 
 ### ⚙️ End-to-End Project
 
