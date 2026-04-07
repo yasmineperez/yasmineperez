@@ -21,23 +21,26 @@
 
 ## 👩‍💻 About Me
 
-Computer Engineer from **Universidad Técnica Federico Santa María** focused on applying machine learning to real-world problems.
+Computer Science Engineer from **Universidad Técnica Federico Santa María**, with a strong foundation in programming, databases, and applied statistics.
 
-I build end-to-end data solutions — from raw data to actionable insights — with a strong focus on **decision-making and business impact**.
+I have experience working with real-world data, focusing on data analysis, machine learning, and process automation. My work includes developing ML models, optimizing data-driven systems, and building solutions that transform data into useful insights.
 
-- 🎓 Thesis: **Surgical instrument recognition** using YOLO-based object detection  
-- 🏦 Experience: Process automation at **Banco Itaú**, improving operational efficiency with Power Automate + SQL  
-- 📊 Focus: Predictive modeling, NLP, and applied ML  
-- 🚀 Goal: Data Scientist role where I can drive real business impact  
+- 🎓 Thesis: Optimization of mental health questionnaires using AI (SBERT, VAE, UMAP, clustering)
+- 🏦 Experience: 
+  - AWS-based data architectures at Banco Estado  
+  - Process automation using Power Automate and SQL at Banco Itaú  
+- 📊 Interests: Machine Learning, NLP, Computer Vision, and data-driven problem solving  
+- 🌱 Strengths: Analytical thinking, organization, teamwork, and continuous learning  
 
 ---
 
 ## 🎯 What I Bring
 
-- Ability to translate business problems into ML solutions  
-- Strong focus on interpretability (SHAP, feature importance)  
-- Experience working with real-world messy data  
-- End-to-end project development (EDA → model → insight → decision)  
+- Solid foundation in machine learning, data analysis, and statistics  
+- Experience working with real-world data and building end-to-end solutions   
+- Knowledge of cloud-based data environments (AWS) and automation tools  
+- Ability to structure problems, analyze data, and build practical solutions  
+- Strong organizational skills, teamwork, and commitment to continuous learning     
 
 ---
 
