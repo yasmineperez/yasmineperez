@@ -45,7 +45,7 @@ I build end-to-end data solutions — from raw data to actionable insights — w
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
