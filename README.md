@@ -115,38 +115,6 @@ I build end-to-end data solutions — from raw data to actionable insights — w
 
 ---
 
-### ⚡ Energy & Data (DIFERENCIAL)
-
-**Hydrogen Cost Modeling (LCOH)**  
-- Modeled cost drivers of green hydrogen production  
-- Analyzed impact of energy and infrastructure variables  
-
-👉 *Impact: Supports decision-making in energy projects*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 🧩 Current Focus
-
-```python
-current_focus = {
-    "learning": ["LLMs", "MLOps", "Model interpretability"],
-    "building": ["End-to-end ML projects", "Streamlit apps"],
-    "goal": "Data Scientist role 🚀"
-}
-
----
-
 <div align="center">
 
 *"Data is the raw material. The model is the craft. The insight is the product."*
