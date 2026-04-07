@@ -62,7 +62,6 @@ I build end-to-end data solutions — from raw data to actionable insights — w
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-009933?style=flat-square&logoColor=white)
 
 **Cloud & Tools**
 
