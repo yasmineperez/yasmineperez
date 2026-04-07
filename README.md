@@ -11,7 +11,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6FA8DC?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmine-perez-97b233292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6FA8DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-perez-97b233292/)
 [![Email](https://img.shields.io/badge/Email-A7C7E7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yasmine.perez@sansano.usm.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-2E4A62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasmineperez)
 
