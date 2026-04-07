@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7C7E7,50:6FA8DC,100:2E4A62&height=200&section=header&text=Yasmine%20%7C%20Data%20Scientist&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20for%20Real-World%20Decisions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
-
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6FA8DC&center=true&vCenter=true&width=700&lines=Turning+data+into+better+decisions;Building+end-to-end+machine+learning+solutions;From+raw+data+to+business+impact;Machine+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG" />
