@@ -106,13 +106,6 @@ I have experience working with real-world data, focusing on data analysis, machi
 - Used feature scaling and dimensionality reduction  
 - Identified distinct customer groups based on behavior  
 
-### ⚙️ End-to-End Project
-
-**[End-to-End ML Pipeline](https://github.com/tu-usuario/end-to-end-project)**  
-- Complete workflow: data cleaning → modeling → evaluation → deployment  
-- Built an interactive dashboard (e.g., Streamlit)  
-- Delivered insights for decision-making  
-
 ---
 
 <div align="center">
