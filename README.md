@@ -94,17 +94,24 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 ### 📈 Regression
 
-**[Sales / Demand Prediction](https://github.com/tu-usuario/regression-project)**  
+**[Sales / Demand Prediction](https://github.com/yasmineperez/regression-project)**  
 - Developed regression models to predict continuous variables (e.g., demand or sales)  
 - Evaluated performance using MAE and RMSE  
 - Analyzed relationships between key predictors   
 
 ### 🔍 Clustering
 
-**[Customer Segmentation](https://github.com/tu-usuario/customer-segmentation)**  
+**[Customer Segmentation](https://github.com/yasmineperez/customer-segmentation)**  
 - Applied K-Means clustering for customer segmentation  
 - Used feature scaling and dimensionality reduction  
 - Identified distinct customer groups based on behavior  
+
+### 🔮 Time Series Forecasting
+
+**[Time Series Forecasting — SARIMA vs Prophet vs LightGBM](https://github.com/yasmineperez/timeseries-forecasting)**  
+- Compared SARIMA, Prophet, and LightGBM for 30-day sales forecasting
+- Applied stationarity tests (ADF, KPSS), ACF/PACF analysis, and seasonal decomposition
+- Engineered lag and rolling window features; evaluated models using MAE, RMSE, and MAPE
 
 ---
 
