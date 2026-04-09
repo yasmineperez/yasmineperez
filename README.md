@@ -87,7 +87,7 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 ### 📊 Classification
 
-**[Customer Churn Prediction](https://github.com/tu-usuario/churn-prediction)**  
+**[Customer Churn Prediction](https://github.com/yasmineperez/churn-prediction)**  
 - Built classification models (Logistic Regression, Random Forest, XGBoost)  
 - Performed feature engineering and model evaluation  
 - Identified key variables associated with customer churn  
