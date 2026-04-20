@@ -94,7 +94,7 @@ I have experience working with real-world data, focusing on data analysis, machi
 
 ### 📈 Regression
 
-**[Sales / Demand Prediction](https://github.com/yasmineperez/regression-project)**  
+**[Sales / Demand Prediction](https://github.com/yasmineperez/sales-prediction)**  
 - Developed regression models to predict continuous variables (e.g., demand or sales)  
 - Evaluated performance using MAE and RMSE  
 - Analyzed relationships between key predictors   
